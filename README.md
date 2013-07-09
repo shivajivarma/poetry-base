@@ -1,4 +1,4 @@
-vemana-satakam
+Vemana Satakam
 ==============
 
-collection of vemana poetry
+This repository holds collection of Vemana Satakam poems.
