@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <poem>
   <telugu>
     ఉప్పు కప్పురంబు నొక్క పోలిక నుండు
@@ -6,12 +7,12 @@
     విశ్వధాభిరామ, వినుర వేమ 
   </telugu>
   
-  <telugu-to-enlish> 
+  <telugu-to-english> 
     Uppu Kappurambu nokka polika nundu
     Chooda chooda ruchulu jaada veru
     Purushulandu Punya purushulu veraya
     Viswadhaabhiraama, Vinura Vema
-  </telugu-to-enlish>
+  </telugu-to-english>
   
   <description> 
     Salt and camphor look similar,
