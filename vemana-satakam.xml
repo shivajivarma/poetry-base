@@ -1,23 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<poem>
-  <telugu>
-    ఉప్పు కప్పురంబు నొక్క పోలిక నుండు
-    చూడ చూడ రుచుల జాడ వేరు
-    ఫురుషులందు ఫుణ్య పురుషులు వేరయ
-    విశ్వధాభిరామ, వినుర వేమ 
-  </telugu>
-  
-  <telugu-to-english> 
-    Uppu Kappurambu nokka polika nundu
-    Chooda chooda ruchulu jaada veru
-    Purushulandu Punya purushulu veraya
-    Viswadhaabhiraama, Vinura Vema
-  </telugu-to-english>
-  
-  <description> 
-    Salt and camphor look similar,
-    but closer observation shows their taste is different
-    Among men, virtuous people stand apart
-    Beloved of the Bounteous, Vema, listen!
-  </description>
-</poem>
+<root>
+  <poem>
+    <telugu>
+      ఉప్పు కప్పురంబు నొక్క పోలిక నుండు
+      చూడ చూడ రుచుల జాడ వేరు
+      ఫురుషులందు ఫుణ్య పురుషులు వేరయ
+      విశ్వధాభిరామ, వినుర వేమ 
+    </telugu>
+    
+    <telugu-to-english> 
+      Uppu Kappurambu nokka polika nundu
+      Chooda chooda ruchulu jaada veru
+      Purushulandu Punya purushulu veraya
+      Viswadhaabhiraama, Vinura Vema
+    </telugu-to-english>
+    
+    <description> 
+      Salt and camphor look similar,
+      but closer observation shows their taste is different
+      Among men, virtuous people stand apart
+      Beloved of the Bounteous, Vema, listen!
+    </description>
+  </poem>
+  <poem>
+    <telugu>
+      కనక మృగము భువిని కలదు లేదనకను
+      తరుణి వీడి చనియె దాశరధుడు
+      బుద్ధిలేనివాడు దేవుడెట్లాయెరా?
+      విశ్వధాభిరామ, వినుర వే
+    </telugu>
+    
+    <telugu-to-english>
+        Kanaka mrugamu bhuvini kadhu Ledhanakanu
+        Tharuni veedi chaniye DhaasharathuDu
+        Budhi Lenivaadu Dhevudetlaayaraa
+        Viswadhaabhiraama, Vinura Vema
+    </telugu-to-english>    
+    
+    <description>
+        Golden animal on earth is imaginary
+        Son of Dhaasharatha left his wife and chased after it
+        He was foolish and insane, how can he be a God?
+        Beloved of the Bounteous, Vema, listen!
+    </description>
+
+  </poem>
+</root>
